@@ -101,3 +101,10 @@ You can also use the **"Register New Patient"** tab to register custom patients 
    - Visualizes each of the 5 dot-separated segments in distinct cryptographic color codes.
    - Proves how the payload is transformed into unreadable AES-GCM ciphertext.
 
+
+   ENV file is
+   
+   PORT=3000
+   JWE_SECRET=a-super-secret-key-32-chars-long-1234567890!
+   NODE_ENV=development
+
