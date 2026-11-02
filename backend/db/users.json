@@ -1,0 +1,184 @@
+[
+  {
+    "id": "usr_01h8x93k2v",
+    "email": "alex.rivera@medivault.io",
+    "passwordHash": "$2a$10$AdMGnJJZbI.hxOsvm1dazOhITVer9sP3DeSuBVuahl0Co24nenv4K",
+    "fullName": "Alex Rivera, M.Sc.",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+    "phone": "+1 (555) 234-5678",
+    "address": {
+      "street": "742 Evergreen Terrace, Suite 4B",
+      "city": "San Francisco",
+      "state": "California",
+      "zipCode": "94107",
+      "country": "United States"
+    },
+    "medicalRecord": {
+      "bloodType": "O-Negative (Universal Donor)",
+      "height": "178 cm (5' 10\")",
+      "weight": "72.5 kg (160 lbs)",
+      "allergies": [
+        "Penicillin (Severe anaphylaxis)",
+        "Peanuts (Moderate urticaria)",
+        "Latex",
+        "hi",
+        "kk"
+      ],
+      "chronicConditions": [
+        "Asthma (Exercise-induced)",
+        "Mild Seasonal Allergic Rhinitis"
+      ],
+      "medications": [
+        {
+          "name": "Albuterol Sulfate Inhalation Aerosol",
+          "dosage": "90 mcg/actuation",
+          "frequency": "2 puffs PRN before exercise",
+          "prescribedBy": "Dr. Evelyn Reed, Pulmonologist"
+        },
+        {
+          "name": "Montelukast Sodium",
+          "dosage": "10 mg tablet",
+          "frequency": "Once daily at bedtime",
+          "prescribedBy": "Dr. Evelyn Reed, Pulmonologist"
+        },
+        {
+          "name": "Cetirizine Hydrochloride",
+          "dosage": "10 mg tablet",
+          "frequency": "Once daily as needed for allergies",
+          "prescribedBy": "Dr. Evelyn Reed, Pulmonologist"
+        },
+        {
+          "name": "hi",
+          "dosage": "56",
+          "frequency": "once a day",
+          "prescribedBy": "Attending Physician"
+        },
+        {
+          "name": "pcm",
+          "dosage": "X3",
+          "frequency": "1-1-1",
+          "prescribedBy": "Attending Physician"
+        }
+      ],
+      "vitals": {
+        "bloodPressure": "118/76 mmHg (Optimal)",
+        "heartRate": "68 bpm (Resting)",
+        "temperature": "98.4 °F (36.9 °C)",
+        "oxygenSaturation": "99% on room air",
+        "lastChecked": "2026-10-18"
+      },
+      "immunizations": [
+        {
+          "vaccine": "COVID-19 Updated Bivalent Booster",
+          "date": "2025-11-04",
+          "status": "Up to Date"
+        },
+        {
+          "vaccine": "Tdap (Tetanus, Diphtheria, Pertussis)",
+          "date": "2024-05-12",
+          "status": "Valid until 2034"
+        },
+        {
+          "vaccine": "Hepatitis B Series (3 doses)",
+          "date": "2021-08-20",
+          "status": "Completed & Immune"
+        },
+        {
+          "vaccine": "Influenza Annual Quadrivalent",
+          "date": "2026-09-15",
+          "status": "Current Season"
+        }
+      ],
+      "emergencyContact": {
+        "name": "Elena Rivera",
+        "relationship": "Spouse",
+        "phone": "+1 (555) 891-2345"
+      },
+      "primaryPhysician": {
+        "name": "Dr. Jonathan Vance, MD",
+        "clinic": "Pacific Heights Medical Center",
+        "phone": "+1 (555) 443-1200"
+      },
+      "recentNotes": "Annual physical exam completed in October 2026. Patient reports excellent cardiovascular endurance. Spirometry test values normal. Continue current asthma maintenance protocol."
+    },
+    "createdAt": "2026-11-01T12:00:00.000Z"
+  },
+  {
+    "id": "usr_02k9m71p4w",
+    "email": "sarah.jenkins@healthgrid.org",
+    "passwordHash": "$2a$10$AdMGnJJZbI.hxOsvm1dazOhITVer9sP3DeSuBVuahl0Co24nenv4K",
+    "fullName": "Dr. Sarah Jenkins",
+    "avatarUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&auto=format&fit=crop&q=80",
+    "phone": "+1 (555) 345-9876",
+    "address": {
+      "street": "1200 Beacon Street, Apt 15C",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "zipCode": "02446",
+      "country": "United States"
+    },
+    "medicalRecord": {
+      "bloodType": "A-Positive",
+      "height": "167 cm (5' 6\")",
+      "weight": "61 kg (134 lbs)",
+      "allergies": [
+        "Sulfa drugs",
+        "Tree nuts"
+      ],
+      "chronicConditions": [
+        "Migraine with aura (Controlled)",
+        "Vitamin D Deficiency"
+      ],
+      "medications": [
+        {
+          "name": "Sumatriptan Succinate",
+          "dosage": "50 mg oral tablet",
+          "frequency": "At onset of migraine attack",
+          "prescribedBy": "Dr. Mark Chen, Neurologist"
+        },
+        {
+          "name": "Cholecalciferol (Vitamin D3)",
+          "dosage": "2000 IU softgel",
+          "frequency": "Daily with meal",
+          "prescribedBy": "Dr. Rachel Adams, PCP"
+        }
+      ],
+      "vitals": {
+        "bloodPressure": "112/72 mmHg (Normal)",
+        "heartRate": "64 bpm (Resting)",
+        "temperature": "98.6 °F (37.0 °C)",
+        "oxygenSaturation": "100%",
+        "lastChecked": "2026-09-29"
+      },
+      "immunizations": [
+        {
+          "vaccine": "MMR (Measles, Mumps, Rubella)",
+          "date": "2019-02-14",
+          "status": "Immunity Confirmed"
+        },
+        {
+          "vaccine": "Varicella (Chickenpox)",
+          "date": "2018-06-10",
+          "status": "Immunity Confirmed"
+        },
+        {
+          "vaccine": "Influenza Annual Quadrivalent",
+          "date": "2026-10-02",
+          "status": "Current Season"
+        }
+      ],
+      "emergencyContact": {
+        "name": "David Jenkins",
+        "relationship": "Brother",
+        "phone": "+1 (555) 776-5432"
+      },
+      "primaryPhysician": {
+        "name": "Dr. Rachel Adams, MD",
+        "clinic": "Beacon Health & Wellness Clinic",
+        "phone": "+1 (555) 232-8800"
+      },
+      "recentNotes": "Migraine episodes have decreased to < 1 per quarter under prophylactic regimen. Vitamin D levels have normalized to 48 ng/mL."
+    },
+    "createdAt": "2026-11-01T12:00:00.000Z"
+  }
+]

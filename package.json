@@ -1,0 +1,12 @@
+{
+  "name": "jwe-medical-platform",
+  "version": "1.0.0",
+  "description": "Healthcare patient portal with Angular, NestJS, Bcrypt, and JWE (JSON Web Encryption - RFC 7516)",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "build": "cd backend && npm run build && cd ../frontend && npm run build",
+    "test:e2e": "cd backend && node test-e2e.js"
+  }
+}
+
